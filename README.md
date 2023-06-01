@@ -1,4 +1,4 @@
-# laser-detection-ios
+# opencv-ios-laser-detection
 
 `OpenCViOSLaserDetection` is a native **iOS** prototype written in **Objective-C++** that detects and draws purple circles around the center of red laser pointer coordinates with the help of **opencv2.framework**.
 
