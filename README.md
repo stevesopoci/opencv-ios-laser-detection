@@ -5,5 +5,5 @@
 <h2> Setup </h2>
 
 1. Clone and open `OpenCViOSLaserDetection` in **Xcode** and download the [OpenCV - 2.4.13 iOS pack](https://sourceforge.net/projects/opencvlibrary/files/opencv-ios/2.4.13/opencv2.framework.zip/download).
-2. Drag and drop the downloaded **opencv2.framework** into the frameworks folder, and ensure the boxes for `Copy items if needed`, `Create groups`, and `LaserDectioniOS` are checked.
+2. Drag and drop the downloaded **opencv2.framework** into the frameworks folder, and ensure the boxes for `Copy items if needed`, `Create groups`, and `OpenCViOSLaserDetection` are checked.
 3. Deploy to an **iOS** device to test.
